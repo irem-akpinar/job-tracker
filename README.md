@@ -26,4 +26,4 @@
 
 ## 🌐 Canlı Demo
 
-[Job Tracker](https://xxxx.netlify.app)
+[Job Tracker](https://job-tracker-proje.netlify.app/)
