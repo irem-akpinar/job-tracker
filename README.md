@@ -4,8 +4,8 @@
 
 ## 🖼️ Ekran Görüntüsü
 
-![Job Tracker 1](./screenshot1.png)
-![Job Tracker 2](./screenshot2.png)
+![Job Tracker 1](./Screenshot_1.png)
+![Job Tracker 2](./Screenshot_2.png)
 
 ## 🚀 Özellikler
 
